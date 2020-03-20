@@ -1,0 +1,6 @@
+framework module Pods_Spalanie_SpalanieUITests {
+  umbrella header "Pods-Spalanie-SpalanieUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
